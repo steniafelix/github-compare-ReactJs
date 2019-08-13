@@ -1,12 +1,7 @@
-import React from 'react';
+import React, { Fragment } from "react";
 
+import Main from "./pages/Main";
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Hello World</h1>
-    </div>
-  );
-}
+const App = () => <Main />;
 
 export default App;
