@@ -10,8 +10,8 @@ export const Container = styled.div`
 export const Repository = styled.div`
   width: 250px;
   background: #fff;
-  border-radius: 3pc;
-  margin: 0 10px;
+  border-radius: 10px;
+  margin: 45px 10px;
 
   display: flex;
   flex-direction: column;
